@@ -1,3 +1,7 @@
+This is a fork in Objective-C
+The settings menu is slightly buggy but it should be functional
+Credit to the original author Lessica
+
 # TrollSpeed
 
 [![Xcode - Build and Analyze](https://github.com/Lessica/TrollSpeed/actions/workflows/build-analyse.yml/badge.svg)](https://github.com/Lessica/TrollSpeed/actions/workflows/build-analyse.yml)
